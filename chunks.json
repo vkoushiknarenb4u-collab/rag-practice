@@ -1,0 +1,94 @@
+[
+  {
+    "chunk_id": "chunk_001",
+    "text": "THREADLINE STREETWEAR | Fictional RAG demo dataset\nPage 1\nSHOP KNOWLEDGE BASE\nFictional product catalogue, inventory, offers and store policies\nShop name\nTHREADLINE STREETWEAR\nDocument version\n1.0 – Demo dataset\nPurpose\nKnowledge source for a Retrieval-Augmented Generation (RAG) shopping\nassistant.\nData status\nAll products, prices, stock counts, offers and policies in this document are\nfictional and created for testing.\nHow to use this document\nUse this PDF as the initial knowledge source for "
+  },
+  {
+    "chunk_id": "chunk_002",
+    "text": "\nUse this PDF as the initial knowledge source for the ShopRAG project. The document is intentionally organised into short\nsections so it can be extracted, cleaned, split into chunks, embedded and searched. For a real shop, replace this demo\ncontent with verified catalogue and policy data. Inventory and prices should ideally be checked against a live structured\ndatabase at answer time.\nImportant note\nThe stock quantities below are demo snapshot values, not live inventory. The assistant should clearly describe them as\n"
+  },
+  {
+    "chunk_id": "chunk_003",
+    "text": "ry. The assistant should clearly describe them as\nsample data and must not claim that a product is currently available in a real store.\n\nTHREADLINE STREETWEAR | Fictional RAG demo dataset\nPage 2\n1. Shop Information\nField\nDetails\nShop name\nTHREADLINE STREETWEAR\nBusiness type\nFictional online streetwear and accessories shop\nProduct categories\nT-shirts, jackets, hoodies, footwear and accessories\nCurrency\nIndian Rupees (INR / I)\nCustomer support email\nsupport@threadline.example\nCustomer support hours\n"
+  },
+  {
+    "chunk_id": "chunk_004",
+    "text": "support@threadline.example\nCustomer support hours\nMonday to Saturday, 10:00 AM to 6:00 PM IST\nDelivery coverage\nDemo policy: serviceable PIN codes across India; actual serviceability\nmust be checked at checkout\n2. Product Catalogue\nEach product has a unique product ID. Prices are listed in Indian Rupees. Sizes and stock quantities are sample values\nfor this demo.\n1. Classic Black Oversized Tee (TS001)\nCategory: T-shirt Price: I499\nDescription: 240 GSM cotton; relaxed fit; minimal front logo.\n"
+  },
+  {
+    "chunk_id": "chunk_005",
+    "text": " 240 GSM cotton; relaxed fit; minimal front logo.\nAvailable sizes: S, M, L, XL Colour: Black\nSample stock quantity: 18 units\n2. Vintage Racing Graphic Tee (TS002)\nCategory: T-shirt Price: I599\nDescription: Cotton jersey with retro motorsport graphic print.\nAvailable sizes: S, M, L, XL Colour: Washed charcoal\nSample stock quantity: 12 units\n3. Retro College Tee (TS003)\nCategory: T-shirt Price: I549\nDescription: Soft cotton tee with vintage collegiate lettering.\nAvailable sizes: S, M, L, XL Colour: Navy\n"
+  },
+  {
+    "chunk_id": "chunk_006",
+    "text": "tering.\nAvailable sizes: S, M, L, XL Colour: Navy\nSample stock quantity: 15 units\n4. Sandstone Boxy Tee (TS004)\nCategory: T-shirt Price: I649\nDescription: Heavyweight cotton with a boxy silhouette.\nAvailable sizes: S, M, L, XL Colour: Sand\nSample stock quantity: 9 units\n\nTHREADLINE STREETWEAR | Fictional RAG demo dataset\nPage 3\n5. Monochrome Skull Tee (TS005)\nCategory: T-shirt Price: I579\nDescription: Everyday cotton tee with monochrome back graphic.\nAvailable sizes: S, M, L, XL Colour: Off-white\n"
+  },
+  {
+    "chunk_id": "chunk_007",
+    "text": "c.\nAvailable sizes: S, M, L, XL Colour: Off-white\nSample stock quantity: 7 units\n6. Urban Denim Jacket (JK001)\nCategory: Jacket Price: I1,499\nDescription: Mid-weight denim jacket with button closure and two pockets.\nAvailable sizes: M, L, XL Colour: Indigo\nSample stock quantity: 6 units\n7. Olive Utility Jacket (JK002)\nCategory: Jacket Price: I1,799\nDescription: Cotton twill utility jacket with four front pockets.\nAvailable sizes: M, L, XL Colour: Olive\nSample stock quantity: 4 units\n"
+  },
+  {
+    "chunk_id": "chunk_008",
+    "text": ", XL Colour: Olive\nSample stock quantity: 4 units\n8. Vintage Varsity Jacket (JK003)\nCategory: Jacket Price: I1,899\nDescription: Fleece-body varsity jacket with contrast sleeves.\nAvailable sizes: M, L, XL Colour: Black/cream\nSample stock quantity: 5 units\n9. Washed Black Trucker Jacket (JK004)\nCategory: Jacket Price: I1,599\nDescription: Washed denim trucker jacket with metal buttons.\nAvailable sizes: M, L, XL Colour: Washed black\nSample stock quantity: 3 units\n10. Lightweight Windbreaker (JK005)\n"
+  },
+  {
+    "chunk_id": "chunk_009",
+    "text": "tity: 3 units\n10. Lightweight Windbreaker (JK005)\nCategory: Jacket Price: I1,299\nDescription: Water-resistant lightweight shell with hood and zip pockets.\nAvailable sizes: S, M, L, XL Colour: Slate blue\nSample stock quantity: 8 units\n\nTHREADLINE STREETWEAR | Fictional RAG demo dataset\nPage 4\n11. Everyday Cotton Hoodie (HD001)\nCategory: Hoodie Price: I999\nDescription: Brushed cotton-blend fleece hoodie with drawstring hood.\nAvailable sizes: S, M, L, XL Colour: Grey\nSample stock quantity: 11 units\n"
+  },
+  {
+    "chunk_id": "chunk_010",
+    "text": ", XL Colour: Grey\nSample stock quantity: 11 units\n12. Street Logo Hoodie (HD002)\nCategory: Hoodie Price: I1,199\nDescription: Relaxed hoodie with small chest logo and back print.\nAvailable sizes: M, L, XL Colour: Black\nSample stock quantity: 6 units\n13. Zip-Up Essential Hoodie (HD003)\nCategory: Hoodie Price: I1,099\nDescription: Full-zip fleece hoodie with split front pockets.\nAvailable sizes: S, M, L, XL Colour: Beige\nSample stock quantity: 10 units\n14. Canvas Low-Top Sneakers (SH001)\n"
+  },
+  {
+    "chunk_id": "chunk_011",
+    "text": "ity: 10 units\n14. Canvas Low-Top Sneakers (SH001)\nCategory: Footwear Price: I1,299\nDescription: Canvas upper, rubber outsole and lace-up fastening.\nAvailable sizes: UK 6, 7, 8, 9, 10 Colour: White\nSample stock quantity: 14 units\n15. Retro Court Sneakers (SH002)\nCategory: Footwear Price: I1,799\nDescription: Synthetic leather upper with cushioned insole.\nAvailable sizes: UK 6, 7, 8, 9, 10 Colour: White/green\nSample stock quantity: 5 units\n16. Everyday Crossbody Bag (AC001)\nCategory: Accessories Price: I699\n"
+  },
+  {
+    "chunk_id": "chunk_012",
+    "text": "ody Bag (AC001)\nCategory: Accessories Price: I699\nDescription: Compact polyester bag with adjustable strap.\nAvailable sizes: One size Colour: Black\nSample stock quantity: 13 units\n\nTHREADLINE STREETWEAR | Fictional RAG demo dataset\nPage 5\n17. Ribbed Beanie (AC002)\nCategory: Accessories Price: I299\nDescription: Soft acrylic rib-knit beanie for everyday wear.\nAvailable sizes: One size Colour: Charcoal\nSample stock quantity: 20 units\n18. Classic Web Belt (AC003)\nCategory: Accessories Price: I399\n"
+  },
+  {
+    "chunk_id": "chunk_013",
+    "text": "eb Belt (AC003)\nCategory: Accessories Price: I399\nDescription: Adjustable woven belt with metal buckle.\nAvailable sizes: One size Colour: Black\nSample stock quantity: 16 units\n19. Graphic Canvas Tote (AC004)\nCategory: Accessories Price: I349\nDescription: Reusable cotton canvas tote with printed graphic.\nAvailable sizes: One size Colour: Natural\nSample stock quantity: 17 units\n20. Steel Bottle 750 ml (AC005)\nCategory: Accessories Price: I599\nDescription: Reusable stainless-steel bottle with screw-top lid.\n"
+  },
+  {
+    "chunk_id": "chunk_014",
+    "text": "usable stainless-steel bottle with screw-top lid.\nAvailable sizes: 750 ml Colour: Silver\nSample stock quantity: 9 units\n\nTHREADLINE STREETWEAR | Fictional RAG demo dataset\nPage 6\n3. Offers and Discounts\nOFFER01 – Welcome Offer\nNew customers receive 10% off their first order. Maximum discount I300. Cannot be combined with another offer.\nOFFER02 – T-shirt Combo\nBuy any 2 T-shirts and receive I100 off the combined T-shirt price. Both items must be in the same order.\nOFFER03 – Accessories Bundle\n"
+  },
+  {
+    "chunk_id": "chunk_015",
+    "text": "e in the same order.\nOFFER03 – Accessories Bundle\nBuy any 2 accessories and receive 5% off the lower-priced accessory.\nOFFER04 – Free Shipping\nFree standard shipping on orders of I1,499 or more. Orders below I1,499 have a demo shipping fee of I79.\nOffer rules\nOnly one promotional offer can be applied per order unless an offer explicitly says otherwise. Discounts are calculated on\neligible product prices before shipping. The welcome offer requires a new customer account. Offers are fictional and may\n"
+  },
+  {
+    "chunk_id": "chunk_016",
+    "text": "ew customer account. Offers are fictional and may\nbe changed in a real shop.\n4. Shipping and Delivery Policy\n• Standard delivery estimate: 3–7 business days after order confirmation.\n• Dispatch estimate: within 1–2 business days after successful payment.\n• Shipping fee: I79 for orders below I1,499; free standard shipping for orders of I1,499 or more.\n• Delivery estimates are not guarantees and may vary by PIN code, courier and public holidays.\n• Customers should provide a correct phone number and delivery address at checkout.\n"
+  },
+  {
+    "chunk_id": "chunk_017",
+    "text": "ct phone number and delivery address at checkout.\n• The chatbot must ask the customer to check PIN-code serviceability at checkout rather than promise delivery to every\nlocation.\n5. Return, Replacement and Refund Policy\nReturn window\nCustomers may request a return within 7 calendar days of delivery for eligible products.\nEligible condition\nItems must be unused, unwashed, undamaged and returned with original tags and packaging.\nNon-returnable items\n"
+  },
+  {
+    "chunk_id": "chunk_018",
+    "text": "original tags and packaging.\nNon-returnable items\nPersonalised products and items marked final sale are not eligible for return, unless they arrive damaged or incorrect.\nWrong or damaged item\nCustomers should contact support within 48 hours of delivery and provide the order ID and clear photos.\nRefund processing\nAfter the returned item is received and inspected, approved refunds are initiated within 5–7 business days. Bank or\npayment-provider processing may take additional time.\nReturn shipping\n"
+  },
+  {
+    "chunk_id": "chunk_019",
+    "text": "cessing may take additional time.\nReturn shipping\nFor an approved wrong or damaged item, the shop covers return shipping. For other eligible returns, the customer pays\nreturn shipping.\n\nTHREADLINE STREETWEAR | Fictional RAG demo dataset\nPage 7\nHow to request\nEmail support@threadline.example with the order ID, product ID and reason for the request.\n6. Payment Information\n• Accepted demo payment methods: UPI, debit card, credit card and net banking.\n• Cash on delivery is not available in this demo dataset.\n"
+  },
+  {
+    "chunk_id": "chunk_020",
+    "text": "n delivery is not available in this demo dataset.\n• Orders are processed after payment confirmation.\n• Customers should never share their UPI PIN, card PIN, CVV or OTP with shop support or the chatbot.\n7. Frequently Asked Questions\nWhat is the cheapest product?\nThe Ribbed Beanie (AC002) costs I299.\nWhich product is the most expensive?\nThe Vintage Varsity Jacket (JK003) costs I1,899.\nDo you sell hoodies?\nYes. The Everyday Cotton Hoodie, Street Logo Hoodie and Zip-Up Essential Hoodie are listed in the catalogue.\n"
+  },
+  {
+    "chunk_id": "chunk_021",
+    "text": "-Up Essential Hoodie are listed in the catalogue.\nHow much is standard shipping?\nI79 for orders below I1,499. Standard shipping is free for orders of I1,499 or more.\nHow long do I have to request a return?\nThe demo return window is 7 calendar days from delivery for eligible products.\nCan I combine offers?\nOnly one promotional offer can be applied per order unless an offer explicitly allows combining.\nHow can I contact support?\nEmail support@threadline.example, Monday to Saturday, 10:00 AM to 6:00 PM IST.\n"
+  },
+  {
+    "chunk_id": "chunk_022",
+    "text": "ple, Monday to Saturday, 10:00 AM to 6:00 PM IST.\n8. RAG Assistant Instructions\n• Answer using information found in this knowledge base. Do not invent product details, prices, sizes, stock counts or\npolicy terms.\n• When possible, mention the product ID so the customer can identify the exact item.\n• If the requested information is missing, say that it is not listed and suggest contacting customer support.\n• Treat prices and stock quantities as demo snapshot values. For a production shop, retrieve current price and stock from\n"
+  },
+  {
+    "chunk_id": "chunk_023",
+    "text": "ction shop, retrieve current price and stock from\nthe live product database.\n• If a customer asks for a recommendation, ask a short clarifying question when needed, such as preferred category,\nbudget, size or colour.\n• Do not claim that an order has been placed, cancelled, refunded or shipped. The chatbot in this project is informational\nunless connected to an authorised order-management system.\nEnd of Shop Knowledge Base"
+  }
+]

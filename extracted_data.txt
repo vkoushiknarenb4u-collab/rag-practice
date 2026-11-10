@@ -1,0 +1,231 @@
+THREADLINE STREETWEAR | Fictional RAG demo dataset
+Page 1
+SHOP KNOWLEDGE BASE
+Fictional product catalogue, inventory, offers and store policies
+Shop name
+THREADLINE STREETWEAR
+Document version
+1.0 – Demo dataset
+Purpose
+Knowledge source for a Retrieval-Augmented Generation (RAG) shopping
+assistant.
+Data status
+All products, prices, stock counts, offers and policies in this document are
+fictional and created for testing.
+How to use this document
+Use this PDF as the initial knowledge source for the ShopRAG project. The document is intentionally organised into short
+sections so it can be extracted, cleaned, split into chunks, embedded and searched. For a real shop, replace this demo
+content with verified catalogue and policy data. Inventory and prices should ideally be checked against a live structured
+database at answer time.
+Important note
+The stock quantities below are demo snapshot values, not live inventory. The assistant should clearly describe them as
+sample data and must not claim that a product is currently available in a real store.
+
+THREADLINE STREETWEAR | Fictional RAG demo dataset
+Page 2
+1. Shop Information
+Field
+Details
+Shop name
+THREADLINE STREETWEAR
+Business type
+Fictional online streetwear and accessories shop
+Product categories
+T-shirts, jackets, hoodies, footwear and accessories
+Currency
+Indian Rupees (INR / I)
+Customer support email
+support@threadline.example
+Customer support hours
+Monday to Saturday, 10:00 AM to 6:00 PM IST
+Delivery coverage
+Demo policy: serviceable PIN codes across India; actual serviceability
+must be checked at checkout
+2. Product Catalogue
+Each product has a unique product ID. Prices are listed in Indian Rupees. Sizes and stock quantities are sample values
+for this demo.
+1. Classic Black Oversized Tee (TS001)
+Category: T-shirt    Price: I499
+Description: 240 GSM cotton; relaxed fit; minimal front logo.
+Available sizes: S, M, L, XL    Colour: Black
+Sample stock quantity: 18 units
+2. Vintage Racing Graphic Tee (TS002)
+Category: T-shirt    Price: I599
+Description: Cotton jersey with retro motorsport graphic print.
+Available sizes: S, M, L, XL    Colour: Washed charcoal
+Sample stock quantity: 12 units
+3. Retro College Tee (TS003)
+Category: T-shirt    Price: I549
+Description: Soft cotton tee with vintage collegiate lettering.
+Available sizes: S, M, L, XL    Colour: Navy
+Sample stock quantity: 15 units
+4. Sandstone Boxy Tee (TS004)
+Category: T-shirt    Price: I649
+Description: Heavyweight cotton with a boxy silhouette.
+Available sizes: S, M, L, XL    Colour: Sand
+Sample stock quantity: 9 units
+
+THREADLINE STREETWEAR | Fictional RAG demo dataset
+Page 3
+5. Monochrome Skull Tee (TS005)
+Category: T-shirt    Price: I579
+Description: Everyday cotton tee with monochrome back graphic.
+Available sizes: S, M, L, XL    Colour: Off-white
+Sample stock quantity: 7 units
+6. Urban Denim Jacket (JK001)
+Category: Jacket    Price: I1,499
+Description: Mid-weight denim jacket with button closure and two pockets.
+Available sizes: M, L, XL    Colour: Indigo
+Sample stock quantity: 6 units
+7. Olive Utility Jacket (JK002)
+Category: Jacket    Price: I1,799
+Description: Cotton twill utility jacket with four front pockets.
+Available sizes: M, L, XL    Colour: Olive
+Sample stock quantity: 4 units
+8. Vintage Varsity Jacket (JK003)
+Category: Jacket    Price: I1,899
+Description: Fleece-body varsity jacket with contrast sleeves.
+Available sizes: M, L, XL    Colour: Black/cream
+Sample stock quantity: 5 units
+9. Washed Black Trucker Jacket (JK004)
+Category: Jacket    Price: I1,599
+Description: Washed denim trucker jacket with metal buttons.
+Available sizes: M, L, XL    Colour: Washed black
+Sample stock quantity: 3 units
+10. Lightweight Windbreaker (JK005)
+Category: Jacket    Price: I1,299
+Description: Water-resistant lightweight shell with hood and zip pockets.
+Available sizes: S, M, L, XL    Colour: Slate blue
+Sample stock quantity: 8 units
+
+THREADLINE STREETWEAR | Fictional RAG demo dataset
+Page 4
+11. Everyday Cotton Hoodie (HD001)
+Category: Hoodie    Price: I999
+Description: Brushed cotton-blend fleece hoodie with drawstring hood.
+Available sizes: S, M, L, XL    Colour: Grey
+Sample stock quantity: 11 units
+12. Street Logo Hoodie (HD002)
+Category: Hoodie    Price: I1,199
+Description: Relaxed hoodie with small chest logo and back print.
+Available sizes: M, L, XL    Colour: Black
+Sample stock quantity: 6 units
+13. Zip-Up Essential Hoodie (HD003)
+Category: Hoodie    Price: I1,099
+Description: Full-zip fleece hoodie with split front pockets.
+Available sizes: S, M, L, XL    Colour: Beige
+Sample stock quantity: 10 units
+14. Canvas Low-Top Sneakers (SH001)
+Category: Footwear    Price: I1,299
+Description: Canvas upper, rubber outsole and lace-up fastening.
+Available sizes: UK 6, 7, 8, 9, 10    Colour: White
+Sample stock quantity: 14 units
+15. Retro Court Sneakers (SH002)
+Category: Footwear    Price: I1,799
+Description: Synthetic leather upper with cushioned insole.
+Available sizes: UK 6, 7, 8, 9, 10    Colour: White/green
+Sample stock quantity: 5 units
+16. Everyday Crossbody Bag (AC001)
+Category: Accessories    Price: I699
+Description: Compact polyester bag with adjustable strap.
+Available sizes: One size    Colour: Black
+Sample stock quantity: 13 units
+
+THREADLINE STREETWEAR | Fictional RAG demo dataset
+Page 5
+17. Ribbed Beanie (AC002)
+Category: Accessories    Price: I299
+Description: Soft acrylic rib-knit beanie for everyday wear.
+Available sizes: One size    Colour: Charcoal
+Sample stock quantity: 20 units
+18. Classic Web Belt (AC003)
+Category: Accessories    Price: I399
+Description: Adjustable woven belt with metal buckle.
+Available sizes: One size    Colour: Black
+Sample stock quantity: 16 units
+19. Graphic Canvas Tote (AC004)
+Category: Accessories    Price: I349
+Description: Reusable cotton canvas tote with printed graphic.
+Available sizes: One size    Colour: Natural
+Sample stock quantity: 17 units
+20. Steel Bottle 750 ml (AC005)
+Category: Accessories    Price: I599
+Description: Reusable stainless-steel bottle with screw-top lid.
+Available sizes: 750 ml    Colour: Silver
+Sample stock quantity: 9 units
+
+THREADLINE STREETWEAR | Fictional RAG demo dataset
+Page 6
+3. Offers and Discounts
+OFFER01 – Welcome Offer
+New customers receive 10% off their first order. Maximum discount I300. Cannot be combined with another offer.
+OFFER02 – T-shirt Combo
+Buy any 2 T-shirts and receive I100 off the combined T-shirt price. Both items must be in the same order.
+OFFER03 – Accessories Bundle
+Buy any 2 accessories and receive 5% off the lower-priced accessory.
+OFFER04 – Free Shipping
+Free standard shipping on orders of I1,499 or more. Orders below I1,499 have a demo shipping fee of I79.
+Offer rules
+Only one promotional offer can be applied per order unless an offer explicitly says otherwise. Discounts are calculated on
+eligible product prices before shipping. The welcome offer requires a new customer account. Offers are fictional and may
+be changed in a real shop.
+4. Shipping and Delivery Policy
+• Standard delivery estimate: 3–7 business days after order confirmation.
+• Dispatch estimate: within 1–2 business days after successful payment.
+• Shipping fee: I79 for orders below I1,499; free standard shipping for orders of I1,499 or more.
+• Delivery estimates are not guarantees and may vary by PIN code, courier and public holidays.
+• Customers should provide a correct phone number and delivery address at checkout.
+• The chatbot must ask the customer to check PIN-code serviceability at checkout rather than promise delivery to every
+location.
+5. Return, Replacement and Refund Policy
+Return window
+Customers may request a return within 7 calendar days of delivery for eligible products.
+Eligible condition
+Items must be unused, unwashed, undamaged and returned with original tags and packaging.
+Non-returnable items
+Personalised products and items marked final sale are not eligible for return, unless they arrive damaged or incorrect.
+Wrong or damaged item
+Customers should contact support within 48 hours of delivery and provide the order ID and clear photos.
+Refund processing
+After the returned item is received and inspected, approved refunds are initiated within 5–7 business days. Bank or
+payment-provider processing may take additional time.
+Return shipping
+For an approved wrong or damaged item, the shop covers return shipping. For other eligible returns, the customer pays
+return shipping.
+
+THREADLINE STREETWEAR | Fictional RAG demo dataset
+Page 7
+How to request
+Email support@threadline.example with the order ID, product ID and reason for the request.
+6. Payment Information
+• Accepted demo payment methods: UPI, debit card, credit card and net banking.
+• Cash on delivery is not available in this demo dataset.
+• Orders are processed after payment confirmation.
+• Customers should never share their UPI PIN, card PIN, CVV or OTP with shop support or the chatbot.
+7. Frequently Asked Questions
+What is the cheapest product?
+The Ribbed Beanie (AC002) costs I299.
+Which product is the most expensive?
+The Vintage Varsity Jacket (JK003) costs I1,899.
+Do you sell hoodies?
+Yes. The Everyday Cotton Hoodie, Street Logo Hoodie and Zip-Up Essential Hoodie are listed in the catalogue.
+How much is standard shipping?
+I79 for orders below I1,499. Standard shipping is free for orders of I1,499 or more.
+How long do I have to request a return?
+The demo return window is 7 calendar days from delivery for eligible products.
+Can I combine offers?
+Only one promotional offer can be applied per order unless an offer explicitly allows combining.
+How can I contact support?
+Email support@threadline.example, Monday to Saturday, 10:00 AM to 6:00 PM IST.
+8. RAG Assistant Instructions
+• Answer using information found in this knowledge base. Do not invent product details, prices, sizes, stock counts or
+policy terms.
+• When possible, mention the product ID so the customer can identify the exact item.
+• If the requested information is missing, say that it is not listed and suggest contacting customer support.
+• Treat prices and stock quantities as demo snapshot values. For a production shop, retrieve current price and stock from
+the live product database.
+• If a customer asks for a recommendation, ask a short clarifying question when needed, such as preferred category,
+budget, size or colour.
+• Do not claim that an order has been placed, cancelled, refunded or shipped. The chatbot in this project is informational
+unless connected to an authorised order-management system.
+End of Shop Knowledge Base
