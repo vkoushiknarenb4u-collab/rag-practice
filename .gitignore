@@ -1,5 +1,4 @@
 # Keep local API credentials out of version control.
 .env
-chroma_db/
 __pycache__/
 *.py[cod]
